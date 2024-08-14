@@ -1,6 +1,6 @@
 :root {
-    --primary-color: rgb(44, 195, 146);
-    --primary-gradiant: linear-gradient( -90deg, rgb(162, 73, 237) 0%, rgb(97, 49, 232) 100%);
+    --primary-color: #bbe609;
+    --primary-gradiant: linear-gradient(-90deg, #bbe609 0%, #004aad 100%);
     --heading-color: rgb(255, 255, 255);
     --heading-color-2: rgb(44, 44, 43);
     --heading-color-3: rgb(20, 20, 21);
